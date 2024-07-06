@@ -1,0 +1,15 @@
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\bin\Debug\net8.0\Task_3.exe
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\bin\Debug\net8.0\Task_3.deps.json
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\bin\Debug\net8.0\Task_3.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\bin\Debug\net8.0\Task_3.pdb
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.sourcelink.json
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.pdb
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_3\obj\Debug\net8.0\ref\Task_3.dll
