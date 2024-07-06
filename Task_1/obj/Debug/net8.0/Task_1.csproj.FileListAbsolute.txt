@@ -1,0 +1,14 @@
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\bin\Debug\net8.0\Task_1.exe
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\bin\Debug\net8.0\Task_1.deps.json
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\bin\Debug\net8.0\Task_1.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\bin\Debug\net8.0\Task_1.pdb
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\refint\Task_1.dll
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.pdb
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+D:\Моя учеба\CSharp\ДЗ_7\Task_1\obj\Debug\net8.0\ref\Task_1.dll
